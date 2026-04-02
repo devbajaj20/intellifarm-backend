@@ -1,0 +1,513 @@
+crop_category,crop,soil_type,N_level,P_level,K_level,temperature,humidity,ph,rainfall,fertilizer
+cereals,,unknown,medium,low,high,29,85,7.5,194,Urea
+cereals,,unknown,medium,medium,low,35,72,6.4,177,NPK
+cereals,,unknown,low,low,high,22,88,6.3,85,Urea
+cereals,,unknown,medium,medium,low,32,72,6.0,179,MOP
+cereals,,unknown,low,low,medium,27,79,6.1,194,NPK
+cereals,,unknown,high,low,high,26,79,6.2,178,NPK
+cereals,,unknown,high,high,medium,31,82,6.1,206,DAP
+cereals,,unknown,high,medium,high,24,80,7.1,149,NPK
+cereals,rice,clay loam,low,medium,high,24,68,6.7,189,Compost
+cereals,rice,clay loam,low,medium,low,25,73,6.6,145,MOP
+cereals,rice,clay loam,medium,medium,high,29,87,6.0,167,NPK
+cereals,rice,clay loam,high,medium,medium,26,87,5.7,143,Compost
+cereals,rice,clay loam,high,low,low,23,68,7.0,192,NPK
+cereals,rice,clay loam,high,high,low,25,64,7.0,246,Urea
+cereals,rice,clay loam,high,low,medium,21,89,6.9,213,Ammonium Sulfate
+cereals,rice,clay loam,high,high,low,34,54,7.5,139,Urea
+cereals,wheat,loamy soil,medium,low,high,25,89,6.4,169,NPK
+cereals,wheat,loamy soil,low,low,high,24,75,7.0,98,Compost
+cereals,wheat,loamy soil,high,high,medium,31,67,6.1,244,NPK
+cereals,wheat,loamy soil,medium,medium,low,29,62,5.7,184,MOP
+cereals,wheat,loamy soil,low,low,medium,30,77,7.2,156,NPK
+cereals,wheat,loamy soil,medium,low,medium,28,69,7.1,109,Ammonium Sulfate
+cereals,wheat,loamy soil,high,high,high,34,60,6.9,202,Compost
+cereals,wheat,loamy soil,medium,high,high,32,64,6.2,175,MOP
+cereals,maize,sandy loam,medium,low,low,31,77,5.9,87,DAP
+cereals,maize,sandy loam,medium,medium,medium,26,81,7.0,96,Compost
+cereals,maize,sandy loam,medium,high,medium,27,77,7.0,162,DAP
+cereals,maize,sandy loam,medium,high,high,33,90,7.2,248,Urea
+cereals,maize,sandy loam,medium,low,medium,28,70,5.5,209,DAP
+cereals,maize,sandy loam,high,medium,low,20,89,5.9,125,MOP
+cereals,maize,sandy loam,high,low,medium,29,70,5.5,132,MOP
+cereals,maize,sandy loam,low,low,low,21,74,6.7,249,Compost
+cereals,barley,loamy soil,medium,medium,low,26,84,6.9,198,MOP
+cereals,barley,loamy soil,medium,low,low,22,53,7.2,198,Compost
+cereals,barley,loamy soil,high,high,high,34,56,7.2,228,Ammonium Sulfate
+cereals,barley,loamy soil,low,medium,high,32,78,7.2,200,NPK
+cereals,barley,loamy soil,high,medium,high,20,67,7.5,159,Ammonium Sulfate
+cereals,barley,loamy soil,low,medium,medium,21,77,7.4,185,Urea
+cereals,barley,loamy soil,medium,medium,medium,23,57,5.5,107,Urea
+cereals,barley,loamy soil,high,low,high,31,52,7.0,132,NPK
+cereals,sorghum,black soil,high,high,low,34,58,6.2,133,Urea
+cereals,sorghum,black soil,low,low,medium,23,53,7.2,236,DAP
+cereals,sorghum,black soil,high,low,high,30,80,6.3,139,Ammonium Sulfate
+cereals,sorghum,black soil,low,high,low,33,85,6.6,240,Compost
+cereals,sorghum,black soil,low,high,medium,30,82,6.7,89,Urea
+cereals,sorghum,black soil,high,medium,medium,20,59,5.7,214,Urea
+cereals,sorghum,black soil,low,high,medium,26,77,6.1,191,NPK
+cereals,sorghum,black soil,high,medium,medium,25,89,5.7,215,Urea
+cereals,fingermillet,sandy loam,high,medium,high,34,76,5.9,235,MOP
+cereals,fingermillet,sandy loam,high,high,high,24,81,6.1,249,MOP
+cereals,fingermillet,sandy loam,low,low,medium,23,51,5.8,243,Compost
+cereals,fingermillet,sandy loam,medium,high,high,29,71,5.7,212,DAP
+cereals,fingermillet,sandy loam,low,medium,high,25,68,7.1,139,Ammonium Sulfate
+cereals,fingermillet,sandy loam,low,medium,high,24,86,6.7,102,Compost
+cereals,fingermillet,sandy loam,high,high,medium,30,67,7.5,205,Compost
+cereals,fingermillet,sandy loam,high,low,high,33,51,6.7,235,Compost
+cereals,buckwheat,loamy soil,high,low,low,21,52,7.0,211,NPK
+cereals,buckwheat,loamy soil,high,low,high,21,70,7.5,103,Ammonium Sulfate
+cereals,buckwheat,loamy soil,medium,high,medium,24,73,6.6,190,Compost
+cereals,buckwheat,loamy soil,high,medium,medium,24,64,6.5,86,DAP
+cereals,buckwheat,loamy soil,medium,high,low,29,62,5.9,232,DAP
+cereals,buckwheat,loamy soil,low,high,low,22,86,6.7,242,NPK
+cereals,buckwheat,loamy soil,medium,high,high,34,51,5.7,128,DAP
+cereals,buckwheat,loamy soil,low,medium,high,32,87,6.9,142,DAP
+cereals,millet,sandy loam,low,high,high,21,52,5.6,250,NPK
+cereals,millet,sandy loam,low,medium,medium,34,78,6.3,81,NPK
+cereals,millet,sandy loam,low,high,low,31,61,6.9,205,MOP
+cereals,millet,sandy loam,low,high,low,27,76,7.5,155,Urea
+cereals,millet,sandy loam,medium,medium,high,20,67,5.7,228,MOP
+cereals,millet,sandy loam,low,low,medium,30,86,7.0,226,Urea
+cereals,millet,sandy loam,high,high,medium,23,71,5.7,139,Compost
+cereals,millet,sandy loam,low,high,high,20,85,5.5,210,MOP
+cereals,oat,loamy soil,low,low,high,35,76,5.6,205,Compost
+cereals,oat,loamy soil,medium,high,medium,25,78,6.8,97,Urea
+cereals,oat,loamy soil,medium,high,low,27,80,6.5,182,Compost
+cereals,oat,loamy soil,medium,low,low,35,53,6.2,175,DAP
+cereals,oat,loamy soil,high,medium,high,31,90,6.5,202,Compost
+cereals,oat,loamy soil,high,low,medium,21,51,5.7,194,Urea
+cereals,oat,loamy soil,high,low,medium,25,59,6.7,179,Compost
+cereals,oat,loamy soil,high,high,medium,27,52,6.7,155,MOP
+cereals,quinoa,sandy loam,medium,medium,medium,30,58,7.2,228,Ammonium Sulfate
+cereals,quinoa,sandy loam,low,medium,high,31,74,6.4,209,NPK
+cereals,quinoa,sandy loam,medium,high,low,22,58,5.6,246,MOP
+cereals,quinoa,sandy loam,medium,low,medium,27,87,6.3,201,MOP
+cereals,quinoa,sandy loam,low,low,medium,34,63,5.6,132,Ammonium Sulfate
+cereals,quinoa,sandy loam,high,medium,high,22,71,6.7,159,MOP
+cereals,quinoa,sandy loam,low,low,high,26,67,6.7,131,NPK
+cereals,quinoa,sandy loam,high,medium,high,22,64,5.5,126,Urea
+cereals,rye,loamy soil,medium,high,low,27,61,5.8,116,Urea
+cereals,rye,loamy soil,medium,high,low,34,76,5.6,150,Urea
+cereals,rye,loamy soil,medium,low,medium,23,85,6.0,190,Compost
+cereals,rye,loamy soil,medium,high,low,27,71,6.5,122,Urea
+cereals,rye,loamy soil,medium,medium,high,32,73,7.0,166,Compost
+cereals,rye,loamy soil,low,medium,low,22,56,6.5,101,NPK
+cereals,rye,loamy soil,low,high,medium,30,70,6.2,133,MOP
+cereals,rye,loamy soil,medium,medium,medium,35,76,6.8,131,DAP
+pulses,,unknown,medium,high,high,34,71,7.1,98,Urea
+pulses,,unknown,low,low,high,25,75,6.2,195,Urea
+pulses,,unknown,medium,low,high,34,59,7.2,242,MOP
+pulses,,unknown,high,low,medium,29,54,6.2,230,DAP
+pulses,,unknown,low,medium,high,30,56,7.0,176,Urea
+pulses,,unknown,low,high,medium,25,53,6.1,161,Urea
+pulses,,unknown,low,medium,high,26,89,6.6,109,NPK
+pulses,,unknown,low,medium,high,29,51,6.0,248,Compost
+pulses,chickpea,sandy loam,low,high,low,29,59,7.2,250,Compost
+pulses,chickpea,sandy loam,high,low,high,23,76,5.8,93,Urea
+pulses,chickpea,sandy loam,medium,low,low,27,68,6.3,137,DAP
+pulses,chickpea,sandy loam,medium,low,medium,23,51,7.2,221,NPK
+pulses,chickpea,sandy loam,medium,high,high,20,67,5.6,207,Ammonium Sulfate
+pulses,chickpea,sandy loam,medium,low,low,25,84,6.2,116,Urea
+pulses,chickpea,sandy loam,high,high,medium,28,63,6.6,176,DAP
+pulses,chickpea,sandy loam,high,low,medium,25,72,5.6,82,Urea
+pulses,lentil,loamy soil,medium,high,low,34,85,7.0,98,Ammonium Sulfate
+pulses,lentil,loamy soil,low,medium,high,32,58,7.4,120,NPK
+pulses,lentil,loamy soil,low,low,high,30,67,5.8,175,Compost
+pulses,lentil,loamy soil,low,low,medium,29,61,7.0,133,Ammonium Sulfate
+pulses,lentil,loamy soil,low,low,high,29,52,5.9,117,Ammonium Sulfate
+pulses,lentil,loamy soil,medium,medium,low,35,71,7.3,166,Compost
+pulses,lentil,loamy soil,medium,high,high,21,73,6.4,188,MOP
+pulses,lentil,loamy soil,medium,medium,low,26,83,6.7,244,MOP
+pulses,pigeonpeas,sandy loam,low,medium,low,27,63,7.5,196,NPK
+pulses,pigeonpeas,sandy loam,high,high,low,22,71,5.9,164,DAP
+pulses,pigeonpeas,sandy loam,low,high,high,35,69,6.1,107,Ammonium Sulfate
+pulses,pigeonpeas,sandy loam,low,medium,high,31,53,7.5,97,Urea
+pulses,pigeonpeas,sandy loam,medium,high,medium,29,51,7.0,187,Compost
+pulses,pigeonpeas,sandy loam,medium,medium,low,24,58,6.1,128,NPK
+pulses,pigeonpeas,sandy loam,medium,low,medium,20,57,7.1,146,Compost
+pulses,pigeonpeas,sandy loam,medium,high,high,27,80,6.8,180,MOP
+pulses,blackgram,loamy soil,low,high,medium,30,60,5.8,90,NPK
+pulses,blackgram,loamy soil,high,medium,high,31,73,7.2,125,DAP
+pulses,blackgram,loamy soil,low,high,high,23,88,6.3,236,Ammonium Sulfate
+pulses,blackgram,loamy soil,low,medium,high,21,70,7.3,161,Urea
+pulses,blackgram,loamy soil,medium,low,high,28,74,6.9,157,NPK
+pulses,blackgram,loamy soil,high,low,high,33,67,7.4,138,Compost
+pulses,blackgram,loamy soil,low,medium,low,22,57,7.0,222,Ammonium Sulfate
+pulses,blackgram,loamy soil,medium,high,medium,33,80,6.3,114,Ammonium Sulfate
+pulses,kidneybeans,loamy soil,high,low,high,27,67,6.6,188,Urea
+pulses,kidneybeans,loamy soil,medium,low,low,33,76,7.0,106,DAP
+pulses,kidneybeans,loamy soil,medium,medium,low,30,75,5.8,137,DAP
+pulses,kidneybeans,loamy soil,low,medium,medium,21,69,5.8,219,Compost
+pulses,kidneybeans,loamy soil,low,high,medium,27,52,6.6,168,Ammonium Sulfate
+pulses,kidneybeans,loamy soil,high,low,medium,28,80,7.4,84,MOP
+pulses,kidneybeans,loamy soil,medium,high,low,35,81,6.7,221,NPK
+pulses,kidneybeans,loamy soil,low,low,medium,34,90,5.7,84,NPK
+pulses,cowpea,sandy loam,low,medium,low,27,68,7.3,197,Ammonium Sulfate
+pulses,cowpea,sandy loam,high,medium,high,27,88,6.2,93,MOP
+pulses,cowpea,sandy loam,medium,low,medium,27,64,7.3,124,Compost
+pulses,cowpea,sandy loam,low,medium,medium,25,81,6.9,245,Ammonium Sulfate
+pulses,cowpea,sandy loam,low,medium,medium,26,58,6.6,248,Ammonium Sulfate
+pulses,cowpea,sandy loam,high,low,high,22,54,6.5,209,Urea
+pulses,cowpea,sandy loam,medium,high,low,30,53,7.4,233,DAP
+pulses,cowpea,sandy loam,medium,medium,medium,20,53,7.0,235,NPK
+pulses,mothbeans,sandy loam,high,low,high,22,52,6.6,218,Compost
+pulses,mothbeans,sandy loam,medium,medium,medium,34,86,6.6,135,NPK
+pulses,mothbeans,sandy loam,medium,medium,low,23,79,6.8,174,MOP
+pulses,mothbeans,sandy loam,low,high,high,23,90,5.8,146,Urea
+pulses,mothbeans,sandy loam,medium,high,high,29,60,6.1,83,DAP
+pulses,mothbeans,sandy loam,medium,medium,low,22,89,6.4,224,Compost
+pulses,mothbeans,sandy loam,low,medium,medium,27,88,5.8,177,Urea
+pulses,mothbeans,sandy loam,medium,high,high,28,72,7.0,240,NPK
+pulses,mungbean,sandy loam,high,high,low,22,58,7.3,245,Ammonium Sulfate
+pulses,mungbean,sandy loam,high,low,high,29,79,6.3,246,Compost
+pulses,mungbean,sandy loam,medium,high,low,35,68,7.4,92,MOP
+pulses,mungbean,sandy loam,medium,high,medium,28,75,5.6,128,DAP
+pulses,mungbean,sandy loam,medium,low,low,23,90,6.4,169,NPK
+pulses,mungbean,sandy loam,low,medium,low,26,68,6.3,239,Compost
+pulses,mungbean,sandy loam,medium,medium,high,35,51,6.6,144,DAP
+pulses,mungbean,sandy loam,medium,low,medium,24,86,5.7,233,Ammonium Sulfate
+pulses,soybean,black soil,high,high,high,29,62,7.4,212,MOP
+pulses,soybean,black soil,low,low,medium,24,62,6.7,192,MOP
+pulses,soybean,black soil,low,high,high,24,71,7.0,199,DAP
+pulses,soybean,black soil,medium,low,high,29,89,6.0,202,Ammonium Sulfate
+pulses,soybean,black soil,low,medium,medium,21,53,5.9,224,Compost
+pulses,soybean,black soil,high,low,medium,21,88,6.5,113,DAP
+pulses,soybean,black soil,high,low,low,20,57,7.4,102,NPK
+pulses,soybean,black soil,high,medium,low,22,53,7.0,153,Urea
+vegetables,,unknown,medium,medium,high,20,59,7.1,238,MOP
+vegetables,,unknown,medium,high,high,32,52,6.0,140,Ammonium Sulfate
+vegetables,,unknown,medium,medium,medium,28,74,7.2,226,Compost
+vegetables,,unknown,high,low,high,30,63,7.1,224,DAP
+vegetables,,unknown,high,high,high,35,77,6.4,86,Urea
+vegetables,,unknown,medium,medium,high,23,69,6.6,158,NPK
+vegetables,,unknown,low,high,high,33,65,5.9,157,NPK
+vegetables,,unknown,medium,high,low,23,54,5.9,100,MOP
+vegetables,tomato,sandy loam,high,high,low,21,59,6.9,192,NPK
+vegetables,tomato,sandy loam,low,high,high,27,78,6.3,180,Ammonium Sulfate
+vegetables,tomato,sandy loam,high,medium,medium,27,58,7.1,169,DAP
+vegetables,tomato,sandy loam,medium,medium,low,20,74,6.4,173,DAP
+vegetables,tomato,sandy loam,medium,medium,medium,33,69,6.8,93,DAP
+vegetables,tomato,sandy loam,medium,medium,medium,25,80,6.1,173,MOP
+vegetables,tomato,sandy loam,medium,medium,low,21,62,6.3,159,Ammonium Sulfate
+vegetables,tomato,sandy loam,low,medium,medium,34,62,6.1,120,Urea
+vegetables,potato,sandy loam,medium,medium,low,32,78,7.3,82,DAP
+vegetables,potato,sandy loam,low,high,low,23,62,5.6,167,MOP
+vegetables,potato,sandy loam,medium,high,low,35,81,6.9,114,NPK
+vegetables,potato,sandy loam,high,low,high,26,78,5.8,243,Ammonium Sulfate
+vegetables,potato,sandy loam,low,high,high,30,52,6.1,155,Compost
+vegetables,potato,sandy loam,high,medium,high,27,60,6.3,163,Urea
+vegetables,potato,sandy loam,medium,high,low,30,62,6.3,218,Compost
+vegetables,potato,sandy loam,low,low,medium,20,83,5.8,147,Compost
+vegetables,onion,sandy loam,high,high,medium,22,79,5.8,192,Urea
+vegetables,onion,sandy loam,high,high,medium,20,78,6.2,186,Urea
+vegetables,onion,sandy loam,low,medium,high,25,79,6.2,199,Urea
+vegetables,onion,sandy loam,medium,low,medium,30,54,6.8,205,DAP
+vegetables,onion,sandy loam,low,low,high,33,70,6.8,193,MOP
+vegetables,onion,sandy loam,low,high,low,28,74,5.8,161,Ammonium Sulfate
+vegetables,onion,sandy loam,high,low,low,21,62,5.9,81,Ammonium Sulfate
+vegetables,onion,sandy loam,high,medium,low,30,72,5.7,88,DAP
+vegetables,eggplant,loamy soil,low,low,high,34,88,7.0,233,Ammonium Sulfate
+vegetables,eggplant,loamy soil,high,low,low,27,67,6.8,106,Ammonium Sulfate
+vegetables,eggplant,loamy soil,medium,high,high,25,56,6.3,156,Ammonium Sulfate
+vegetables,eggplant,loamy soil,medium,high,low,31,80,6.0,198,DAP
+vegetables,eggplant,loamy soil,low,high,low,22,86,5.7,117,Ammonium Sulfate
+vegetables,eggplant,loamy soil,low,medium,low,23,69,7.4,102,NPK
+vegetables,eggplant,loamy soil,low,medium,low,27,60,6.0,153,DAP
+vegetables,eggplant,loamy soil,high,medium,high,22,80,6.3,83,MOP
+vegetables,cabbage,loamy soil,medium,medium,high,29,65,5.8,189,Urea
+vegetables,cabbage,loamy soil,low,high,medium,34,63,6.0,151,Urea
+vegetables,cabbage,loamy soil,medium,medium,high,29,56,6.9,195,DAP
+vegetables,cabbage,loamy soil,low,high,medium,26,80,6.7,238,Ammonium Sulfate
+vegetables,cabbage,loamy soil,medium,low,medium,32,79,6.4,149,Ammonium Sulfate
+vegetables,cabbage,loamy soil,low,high,high,30,60,6.4,233,Compost
+vegetables,cabbage,loamy soil,medium,low,high,31,51,6.8,131,NPK
+vegetables,cabbage,loamy soil,medium,high,high,33,88,7.0,196,Urea
+vegetables,carrot,sandy loam,high,medium,medium,26,87,6.3,250,Urea
+vegetables,carrot,sandy loam,high,low,high,32,63,7.2,154,DAP
+vegetables,carrot,sandy loam,high,low,low,27,85,6.1,113,Ammonium Sulfate
+vegetables,carrot,sandy loam,medium,high,high,20,83,5.6,113,MOP
+vegetables,carrot,sandy loam,low,high,high,34,65,6.1,172,Ammonium Sulfate
+vegetables,carrot,sandy loam,medium,low,high,35,57,7.3,91,NPK
+vegetables,carrot,sandy loam,high,high,low,35,60,5.9,180,NPK
+vegetables,carrot,sandy loam,low,high,medium,30,64,6.4,87,Urea
+vegetables,cauliflower,loamy soil,medium,medium,medium,28,53,6.9,239,NPK
+vegetables,cauliflower,loamy soil,medium,high,high,26,50,6.9,112,Ammonium Sulfate
+vegetables,cauliflower,loamy soil,low,medium,high,20,75,5.6,154,Urea
+vegetables,cauliflower,loamy soil,low,medium,medium,22,55,6.6,170,MOP
+vegetables,cauliflower,loamy soil,high,medium,medium,33,85,7.3,102,MOP
+vegetables,cauliflower,loamy soil,high,medium,high,28,68,6.5,163,Ammonium Sulfate
+vegetables,cauliflower,loamy soil,medium,low,high,25,84,7.5,206,NPK
+vegetables,cauliflower,loamy soil,high,high,high,34,78,7.0,239,Ammonium Sulfate
+vegetables,spinach,loamy soil,high,low,low,33,55,6.2,220,NPK
+vegetables,spinach,loamy soil,medium,low,high,32,81,5.8,155,NPK
+vegetables,spinach,loamy soil,medium,high,medium,32,76,6.1,239,DAP
+vegetables,spinach,loamy soil,high,low,medium,33,56,7.4,188,MOP
+vegetables,spinach,loamy soil,high,medium,medium,30,65,7.0,97,Ammonium Sulfate
+vegetables,spinach,loamy soil,low,medium,low,23,54,6.7,128,Urea
+vegetables,spinach,loamy soil,medium,medium,high,22,72,6.6,250,Urea
+vegetables,spinach,loamy soil,high,medium,high,30,89,7.3,94,Compost
+vegetables,pumpkin,sandy loam,low,medium,low,21,52,5.6,162,Urea
+vegetables,pumpkin,sandy loam,high,low,high,31,64,5.8,162,NPK
+vegetables,pumpkin,sandy loam,medium,medium,low,22,51,5.6,150,Urea
+vegetables,pumpkin,sandy loam,low,medium,high,29,73,5.9,160,NPK
+vegetables,pumpkin,sandy loam,low,high,medium,27,79,7.2,139,Compost
+vegetables,pumpkin,sandy loam,low,low,low,23,73,7.1,105,Compost
+vegetables,pumpkin,sandy loam,medium,high,medium,24,72,6.6,241,NPK
+vegetables,pumpkin,sandy loam,high,high,high,28,76,5.7,244,Urea
+vegetables,cucumber,sandy loam,medium,low,low,21,75,6.7,231,DAP
+vegetables,cucumber,sandy loam,medium,low,medium,26,72,7.2,157,NPK
+vegetables,cucumber,sandy loam,high,low,high,24,65,6.2,231,NPK
+vegetables,cucumber,sandy loam,medium,low,low,24,70,5.8,91,NPK
+vegetables,cucumber,sandy loam,medium,high,medium,30,80,5.6,89,Ammonium Sulfate
+vegetables,cucumber,sandy loam,low,low,medium,30,84,7.1,221,Ammonium Sulfate
+vegetables,cucumber,sandy loam,low,high,high,23,60,7.0,168,Compost
+vegetables,cucumber,sandy loam,high,high,medium,28,58,6.5,105,MOP
+vegetables,okra,sandy loam,medium,high,low,24,65,7.1,149,MOP
+vegetables,okra,sandy loam,low,low,low,21,51,6.1,204,Urea
+vegetables,okra,sandy loam,medium,high,low,21,71,6.0,180,Urea
+vegetables,okra,sandy loam,medium,low,medium,34,75,6.4,227,MOP
+vegetables,okra,sandy loam,low,high,low,23,58,6.2,199,Urea
+vegetables,okra,sandy loam,medium,high,medium,27,68,6.4,187,Ammonium Sulfate
+vegetables,okra,sandy loam,medium,medium,medium,34,80,6.3,199,NPK
+vegetables,okra,sandy loam,medium,low,high,20,51,6.5,232,Ammonium Sulfate
+vegetables,peas,sandy loam,high,low,medium,22,56,6.8,240,DAP
+vegetables,peas,sandy loam,low,low,low,25,56,7.3,137,Ammonium Sulfate
+vegetables,peas,sandy loam,medium,low,low,22,60,6.7,183,Compost
+vegetables,peas,sandy loam,high,high,high,27,55,7.4,108,DAP
+vegetables,peas,sandy loam,high,low,medium,26,85,6.8,224,Compost
+vegetables,peas,sandy loam,medium,high,low,34,74,6.1,225,MOP
+vegetables,peas,sandy loam,high,medium,high,32,72,5.5,102,Urea
+vegetables,peas,sandy loam,medium,low,low,22,69,5.6,97,Urea
+fruits,,unknown,medium,high,high,23,73,6.6,158,Compost
+fruits,,unknown,high,high,high,25,89,7.3,173,Ammonium Sulfate
+fruits,,unknown,low,high,medium,31,88,6.7,235,Ammonium Sulfate
+fruits,,unknown,high,medium,medium,20,69,6.1,187,Ammonium Sulfate
+fruits,,unknown,medium,medium,high,28,70,6.5,103,MOP
+fruits,,unknown,low,high,medium,30,77,6.7,114,MOP
+fruits,,unknown,high,low,medium,33,67,7.1,215,Ammonium Sulfate
+fruits,,unknown,low,high,high,25,89,6.9,114,MOP
+fruits,apple,loamy soil,low,high,high,24,63,7.4,191,DAP
+fruits,apple,loamy soil,medium,low,medium,26,87,6.2,196,MOP
+fruits,apple,loamy soil,high,low,low,35,58,7.0,85,MOP
+fruits,apple,loamy soil,low,low,high,34,51,6.2,119,Ammonium Sulfate
+fruits,apple,loamy soil,low,high,high,33,64,6.6,93,NPK
+fruits,apple,loamy soil,low,low,medium,21,61,6.5,198,Ammonium Sulfate
+fruits,apple,loamy soil,medium,medium,low,25,61,6.1,174,MOP
+fruits,apple,loamy soil,medium,high,high,30,69,7.5,206,NPK
+fruits,banana,alluvial soil,high,low,high,21,53,6.1,86,DAP
+fruits,banana,alluvial soil,medium,high,low,32,63,5.6,110,DAP
+fruits,banana,alluvial soil,high,medium,medium,34,75,7.2,214,Compost
+fruits,banana,alluvial soil,high,medium,medium,25,76,6.8,150,DAP
+fruits,banana,alluvial soil,high,low,low,30,76,6.0,241,Compost
+fruits,banana,alluvial soil,high,low,high,33,84,6.9,120,Compost
+fruits,banana,alluvial soil,high,low,medium,32,67,6.9,214,Compost
+fruits,banana,alluvial soil,high,low,medium,26,86,6.0,97,NPK
+fruits,dragonfruit,alluvial soil,medium,low,high,33,66,6.3,250,Compost
+fruits,dragonfruit,alluvial soil,high,medium,medium,26,58,5.6,150,Ammonium Sulfate
+fruits,dragonfruit,alluvial soil,low,high,low,21,86,5.7,121,NPK
+fruits,dragonfruit,alluvial soil,medium,high,high,23,74,7.3,126,Urea
+fruits,dragonfruit,alluvial soil,medium,medium,low,28,61,7.4,81,Ammonium Sulfate
+fruits,dragonfruit,alluvial soil,low,high,medium,35,63,6.7,113,DAP
+fruits,dragonfruit,alluvial soil,low,medium,high,33,79,7.3,219,Compost
+fruits,dragonfruit,alluvial soil,high,low,high,29,64,5.9,129,DAP
+fruits,grapes,sandy loam,medium,high,low,33,73,6.6,130,Ammonium Sulfate
+fruits,grapes,sandy loam,low,high,medium,21,75,6.5,112,Ammonium Sulfate
+fruits,grapes,sandy loam,high,low,high,29,79,7.0,183,Ammonium Sulfate
+fruits,grapes,sandy loam,high,high,low,24,71,5.9,166,DAP
+fruits,grapes,sandy loam,low,high,medium,26,62,6.7,149,Ammonium Sulfate
+fruits,grapes,sandy loam,low,medium,high,34,72,5.6,143,NPK
+fruits,grapes,sandy loam,high,high,high,24,53,7.2,237,Urea
+fruits,grapes,sandy loam,low,high,medium,32,78,6.3,116,NPK
+fruits,guava,alluvial soil,low,low,medium,34,51,6.5,191,NPK
+fruits,guava,alluvial soil,medium,medium,low,34,61,5.6,201,MOP
+fruits,guava,alluvial soil,low,low,low,33,55,6.6,176,MOP
+fruits,guava,alluvial soil,medium,high,high,25,63,5.8,169,NPK
+fruits,guava,alluvial soil,low,medium,high,26,73,6.9,116,NPK
+fruits,guava,alluvial soil,medium,low,medium,24,86,6.1,214,MOP
+fruits,guava,alluvial soil,low,high,low,30,56,7.0,244,DAP
+fruits,guava,alluvial soil,low,low,high,24,54,6.0,132,NPK
+fruits,mango,alluvial soil,low,medium,low,21,81,6.8,188,Urea
+fruits,mango,alluvial soil,medium,low,low,24,84,7.4,154,Compost
+fruits,mango,alluvial soil,medium,low,medium,23,72,6.7,213,DAP
+fruits,mango,alluvial soil,low,high,medium,25,58,7.3,176,Urea
+fruits,mango,alluvial soil,high,low,high,22,70,6.1,105,MOP
+fruits,mango,alluvial soil,medium,medium,low,25,89,6.7,245,NPK
+fruits,mango,alluvial soil,low,medium,medium,31,86,6.4,162,DAP
+fruits,mango,alluvial soil,medium,low,low,24,73,7.2,131,DAP
+fruits,muskmelon,sandy loam,low,medium,low,25,90,6.3,229,Ammonium Sulfate
+fruits,muskmelon,sandy loam,medium,low,medium,34,60,6.5,82,DAP
+fruits,muskmelon,sandy loam,high,low,medium,21,69,6.5,123,Compost
+fruits,muskmelon,sandy loam,low,low,low,34,70,6.3,171,Ammonium Sulfate
+fruits,muskmelon,sandy loam,low,low,medium,20,82,6.8,136,DAP
+fruits,muskmelon,sandy loam,high,low,medium,35,82,5.9,118,NPK
+fruits,muskmelon,sandy loam,medium,low,medium,33,83,6.2,100,Urea
+fruits,muskmelon,sandy loam,low,medium,medium,26,71,7.2,133,MOP
+fruits,orange,loamy soil,low,low,high,23,67,7.4,150,NPK
+fruits,orange,loamy soil,medium,high,low,25,71,7.1,228,MOP
+fruits,orange,loamy soil,low,medium,low,26,74,5.5,135,Ammonium Sulfate
+fruits,orange,loamy soil,high,low,medium,35,68,7.0,184,MOP
+fruits,orange,loamy soil,low,high,medium,30,53,6.5,220,Compost
+fruits,orange,loamy soil,medium,high,high,28,54,6.6,124,Ammonium Sulfate
+fruits,orange,loamy soil,medium,high,low,27,85,6.8,124,NPK
+fruits,orange,loamy soil,high,medium,medium,35,75,6.6,127,DAP
+fruits,papaya,sandy loam,high,low,high,22,69,6.3,116,NPK
+fruits,papaya,sandy loam,high,low,medium,28,85,6.9,182,DAP
+fruits,papaya,sandy loam,low,low,high,31,69,5.9,178,Compost
+fruits,papaya,sandy loam,low,medium,high,25,65,7.1,173,DAP
+fruits,papaya,sandy loam,high,high,medium,30,78,6.4,125,Urea
+fruits,papaya,sandy loam,low,low,low,33,55,7.1,142,Ammonium Sulfate
+fruits,papaya,sandy loam,high,low,low,26,62,6.7,241,MOP
+fruits,papaya,sandy loam,medium,medium,high,31,72,6.4,178,DAP
+fruits,pineapple,laterite soil,medium,low,medium,24,78,6.4,149,MOP
+fruits,pineapple,laterite soil,low,high,low,26,73,5.7,81,MOP
+fruits,pineapple,laterite soil,high,medium,high,31,63,7.0,208,Ammonium Sulfate
+fruits,pineapple,laterite soil,high,low,medium,35,51,6.3,148,MOP
+fruits,pineapple,laterite soil,high,high,high,28,56,6.6,119,DAP
+fruits,pineapple,laterite soil,low,medium,high,25,74,6.8,126,MOP
+fruits,pineapple,laterite soil,low,high,medium,29,75,6.1,224,DAP
+fruits,pineapple,laterite soil,high,low,high,21,73,6.2,244,Urea
+fruits,pomegranate,sandy loam,low,low,low,32,80,6.4,134,DAP
+fruits,pomegranate,sandy loam,high,high,high,35,90,6.6,126,Urea
+fruits,pomegranate,sandy loam,high,high,low,25,65,7.4,91,NPK
+fruits,pomegranate,sandy loam,high,high,high,32,76,5.8,154,Urea
+fruits,pomegranate,sandy loam,medium,high,medium,29,51,5.8,216,Urea
+fruits,pomegranate,sandy loam,low,medium,medium,23,51,6.7,171,NPK
+fruits,pomegranate,sandy loam,high,medium,low,22,77,5.8,184,MOP
+fruits,pomegranate,sandy loam,high,high,low,22,70,6.3,249,Compost
+fruits,watermelon,loamy soil,high,high,high,22,79,6.6,132,Compost
+fruits,watermelon,loamy soil,low,low,medium,33,89,6.9,102,NPK
+fruits,watermelon,loamy soil,low,high,medium,29,83,7.4,110,Compost
+fruits,watermelon,loamy soil,medium,medium,high,23,53,6.4,235,Urea
+fruits,watermelon,loamy soil,low,medium,medium,24,58,6.5,132,NPK
+fruits,watermelon,loamy soil,medium,high,high,25,82,7.5,246,Compost
+fruits,watermelon,loamy soil,high,low,medium,22,90,5.5,208,NPK
+fruits,watermelon,loamy soil,low,high,high,21,60,6.8,189,DAP
+fruits,coconut,sandy loam,medium,medium,high,22,73,5.5,106,NPK
+fruits,coconut,sandy loam,medium,high,medium,30,77,7.0,133,DAP
+fruits,coconut,sandy loam,high,low,medium,30,82,7.4,106,DAP
+fruits,coconut,sandy loam,low,high,high,32,78,7.1,169,Compost
+fruits,coconut,sandy loam,high,high,medium,24,65,6.0,202,NPK
+fruits,coconut,sandy loam,high,medium,low,34,63,5.7,212,Ammonium Sulfate
+fruits,coconut,sandy loam,high,high,medium,27,78,7.0,218,MOP
+fruits,coconut,sandy loam,medium,medium,low,29,62,6.0,249,Urea
+oilseeds,,unknown,medium,high,medium,30,89,5.8,224,NPK
+oilseeds,,unknown,high,high,low,35,51,6.0,189,MOP
+oilseeds,,unknown,medium,medium,high,21,67,7.1,236,Ammonium Sulfate
+oilseeds,,unknown,high,low,low,28,70,7.1,157,Urea
+oilseeds,,unknown,medium,medium,high,33,88,6.8,196,DAP
+oilseeds,,unknown,low,low,medium,28,79,7.2,189,MOP
+oilseeds,,unknown,medium,medium,high,23,88,7.1,228,DAP
+oilseeds,,unknown,high,low,low,24,79,6.5,194,Urea
+oilseeds,groundnut,sandy loam,medium,medium,medium,23,82,6.2,200,NPK
+oilseeds,groundnut,sandy loam,high,high,low,30,78,6.2,236,Ammonium Sulfate
+oilseeds,groundnut,sandy loam,high,high,medium,32,58,7.4,155,DAP
+oilseeds,groundnut,sandy loam,low,low,low,29,76,7.2,130,Urea
+oilseeds,groundnut,sandy loam,low,low,low,21,84,7.2,152,Ammonium Sulfate
+oilseeds,groundnut,sandy loam,medium,medium,high,23,71,5.8,231,DAP
+oilseeds,groundnut,sandy loam,medium,low,medium,27,78,7.5,147,Ammonium Sulfate
+oilseeds,groundnut,sandy loam,medium,high,high,29,88,6.4,231,Urea
+oilseeds,mustard,loamy soil,medium,low,low,33,80,6.1,102,NPK
+oilseeds,mustard,loamy soil,high,medium,low,31,81,7.2,149,Ammonium Sulfate
+oilseeds,mustard,loamy soil,high,high,high,21,67,6.0,86,DAP
+oilseeds,mustard,loamy soil,low,medium,low,31,88,6.2,81,NPK
+oilseeds,mustard,loamy soil,high,low,low,22,61,6.2,124,Compost
+oilseeds,mustard,loamy soil,low,high,low,32,71,6.5,92,DAP
+oilseeds,mustard,loamy soil,medium,medium,medium,35,84,6.2,123,Ammonium Sulfate
+oilseeds,mustard,loamy soil,low,high,high,26,80,7.3,202,DAP
+oilseeds,sunflower,sandy loam,low,low,low,25,90,6.4,134,MOP
+oilseeds,sunflower,sandy loam,low,high,medium,28,77,6.4,250,NPK
+oilseeds,sunflower,sandy loam,low,high,high,33,56,7.0,250,NPK
+oilseeds,sunflower,sandy loam,low,high,high,32,68,6.9,249,DAP
+oilseeds,sunflower,sandy loam,medium,high,high,27,71,6.1,218,DAP
+oilseeds,sunflower,sandy loam,low,high,high,32,78,6.5,238,MOP
+oilseeds,sunflower,sandy loam,low,medium,low,28,63,6.7,189,DAP
+oilseeds,sunflower,sandy loam,high,low,low,22,82,7.5,133,MOP
+oilseeds,sesame,sandy loam,high,medium,high,29,74,7.2,159,MOP
+oilseeds,sesame,sandy loam,low,medium,high,28,71,6.4,107,MOP
+oilseeds,sesame,sandy loam,high,medium,medium,30,81,7.3,173,Compost
+oilseeds,sesame,sandy loam,high,medium,high,24,75,6.2,232,Ammonium Sulfate
+oilseeds,sesame,sandy loam,high,high,medium,30,69,6.1,249,Ammonium Sulfate
+oilseeds,sesame,sandy loam,high,high,high,22,83,6.0,198,Urea
+oilseeds,sesame,sandy loam,medium,medium,low,35,77,6.1,218,NPK
+oilseeds,sesame,sandy loam,low,low,low,32,59,6.0,110,Urea
+oilseeds,castor,sandy loam,low,high,medium,20,50,7.3,92,Compost
+oilseeds,castor,sandy loam,high,medium,medium,24,88,7.3,204,DAP
+oilseeds,castor,sandy loam,high,high,low,35,83,7.4,159,Compost
+oilseeds,castor,sandy loam,medium,medium,medium,28,79,6.2,186,Compost
+oilseeds,castor,sandy loam,medium,high,high,21,86,5.9,212,MOP
+oilseeds,castor,sandy loam,medium,low,medium,25,50,6.2,177,Compost
+oilseeds,castor,sandy loam,medium,high,low,33,58,6.2,129,Ammonium Sulfate
+oilseeds,castor,sandy loam,low,high,high,29,59,6.6,213,DAP
+cash,,unknown,high,high,medium,31,56,5.5,92,NPK
+cash,,unknown,medium,medium,high,20,68,6.1,203,Urea
+cash,,unknown,high,medium,high,25,72,6.4,158,NPK
+cash,,unknown,low,low,low,31,63,6.3,214,Compost
+cash,,unknown,low,high,low,21,76,6.4,160,MOP
+cash,,unknown,low,high,high,33,73,5.6,127,Urea
+cash,,unknown,high,low,medium,35,70,6.2,247,NPK
+cash,,unknown,high,medium,low,34,86,7.4,95,NPK
+cash,cotton,black soil,medium,high,medium,30,73,6.3,232,DAP
+cash,cotton,black soil,medium,medium,low,30,51,6.0,206,NPK
+cash,cotton,black soil,high,low,high,35,87,6.4,156,Ammonium Sulfate
+cash,cotton,black soil,low,high,high,26,74,7.3,229,Urea
+cash,cotton,black soil,low,high,low,34,83,7.1,141,Compost
+cash,cotton,black soil,medium,medium,low,30,54,6.4,169,Compost
+cash,cotton,black soil,high,medium,high,27,68,5.6,161,Ammonium Sulfate
+cash,cotton,black soil,low,high,low,23,79,6.7,211,Ammonium Sulfate
+cash,coffee,laterite soil,low,high,high,22,87,5.9,228,Compost
+cash,coffee,laterite soil,medium,low,high,34,71,7.0,227,MOP
+cash,coffee,laterite soil,high,high,low,30,70,7.2,243,NPK
+cash,coffee,laterite soil,high,low,medium,35,68,7.5,203,Ammonium Sulfate
+cash,coffee,laterite soil,high,medium,medium,28,87,6.6,95,Compost
+cash,coffee,laterite soil,medium,high,medium,31,73,6.2,192,Compost
+cash,coffee,laterite soil,high,medium,low,24,86,5.7,181,MOP
+cash,coffee,laterite soil,low,low,high,31,62,6.1,213,MOP
+cash,sugarcane,alluvial soil,medium,high,low,33,54,6.8,187,MOP
+cash,sugarcane,alluvial soil,high,low,low,30,70,6.2,98,Ammonium Sulfate
+cash,sugarcane,alluvial soil,medium,high,high,21,80,7.1,102,Ammonium Sulfate
+cash,sugarcane,alluvial soil,high,high,low,34,61,5.6,244,Compost
+cash,sugarcane,alluvial soil,high,high,low,34,85,5.9,221,MOP
+cash,sugarcane,alluvial soil,medium,low,medium,35,67,6.0,96,Urea
+cash,sugarcane,alluvial soil,medium,low,high,22,78,6.3,154,DAP
+cash,sugarcane,alluvial soil,low,high,medium,31,69,6.1,150,Urea
+cash,tea,laterite soil,high,medium,low,24,88,6.3,215,Compost
+cash,tea,laterite soil,high,medium,medium,24,78,6.2,133,MOP
+cash,tea,laterite soil,high,low,medium,35,74,6.3,224,Urea
+cash,tea,laterite soil,high,low,medium,22,59,5.7,178,Ammonium Sulfate
+cash,tea,laterite soil,medium,low,low,30,58,5.7,87,Ammonium Sulfate
+cash,tea,laterite soil,low,low,high,20,70,5.9,221,DAP
+cash,tea,laterite soil,low,low,low,25,50,5.9,128,NPK
+cash,tea,laterite soil,medium,high,high,22,75,6.9,132,NPK
+cash,rubber,laterite soil,medium,low,low,32,66,6.2,203,Compost
+cash,rubber,laterite soil,high,low,high,21,61,6.2,121,Urea
+cash,rubber,laterite soil,medium,medium,high,20,54,7.0,233,NPK
+cash,rubber,laterite soil,high,medium,medium,27,65,6.0,99,Ammonium Sulfate
+cash,rubber,laterite soil,low,high,high,35,52,6.5,178,NPK
+cash,rubber,laterite soil,low,medium,high,24,82,5.6,155,Compost
+cash,rubber,laterite soil,high,low,medium,30,83,7.0,88,Compost
+cash,rubber,laterite soil,low,low,high,25,73,5.9,102,NPK
+cash,turmeric,loamy soil,high,medium,high,31,66,6.3,148,DAP
+cash,turmeric,loamy soil,medium,low,low,25,89,6.3,176,Compost
+cash,turmeric,loamy soil,high,high,high,29,89,5.7,108,MOP
+cash,turmeric,loamy soil,low,high,medium,26,70,5.5,114,Ammonium Sulfate
+cash,turmeric,loamy soil,low,high,high,23,74,7.4,113,Urea
+cash,turmeric,loamy soil,medium,high,medium,29,83,6.2,131,Compost
+cash,turmeric,loamy soil,medium,medium,low,35,90,6.8,172,Ammonium Sulfate
+cash,turmeric,loamy soil,high,high,medium,25,53,5.9,220,DAP
+cash,jute,alluvial soil,low,medium,high,33,67,7.1,233,DAP
+cash,jute,alluvial soil,low,medium,medium,23,89,5.7,213,NPK
+cash,jute,alluvial soil,medium,high,high,28,65,6.0,141,Compost
+cash,jute,alluvial soil,medium,high,medium,30,70,7.1,170,MOP
+cash,jute,alluvial soil,medium,medium,low,24,73,5.9,81,Ammonium Sulfate
+cash,jute,alluvial soil,high,low,low,32,54,6.6,200,Ammonium Sulfate
+cash,jute,alluvial soil,low,medium,medium,25,61,7.5,82,Compost
+cash,jute,alluvial soil,high,high,low,25,90,5.7,134,DAP
+cash,cashew,laterite soil,high,low,high,29,54,6.0,168,Urea
+cash,cashew,laterite soil,medium,high,high,32,52,7.2,131,Compost
+cash,cashew,laterite soil,low,high,low,20,84,5.5,210,MOP
+cash,cashew,laterite soil,low,medium,high,25,61,5.7,242,MOP
+cash,cashew,laterite soil,medium,medium,low,32,83,6.7,109,NPK
+cash,cashew,laterite soil,high,high,low,24,55,7.1,179,MOP
+cash,cashew,laterite soil,low,medium,medium,22,83,6.1,205,Ammonium Sulfate
+cash,cashew,laterite soil,medium,high,medium,29,81,6.8,174,MOP

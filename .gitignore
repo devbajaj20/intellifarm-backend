@@ -1,0 +1,38 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+env/
+.venv/
+
+# Environment variables (VERY IMPORTANT)
+
+.env
+
+# VS Code / IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Large files (optional - if needed)
+
+# models/*.pkl
+
+# Jupyter
+
+.ipynb_checkpoints/
