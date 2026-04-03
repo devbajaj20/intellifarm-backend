@@ -76,7 +76,15 @@ The backend is responsible for:
 
 ## 🌐 Live API
 
-👉 https://intellifarm-backend-enxj.onrender.com
+👉 https://*********.onrender.com
+
+---
+
+## 🌐 Live Demo
+
+👉 https://intellifarm-live.vercel.app/
+
+⚡ Fully functional AI-powered agriculture platform
 
 ---
 
