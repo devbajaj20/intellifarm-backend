@@ -8,10 +8,12 @@ from utils.mapper import map_user_inputs
 from chatbot.routes import chatbot_bp
 from services.llm_service import ask_llm
 from dotenv import load_dotenv
+from fertilizer_calculator import fert_bp
 
 app = Flask(__name__)
 CORS(app)
 app.register_blueprint(chatbot_bp)
+app.register_blueprint(fert_bp)
 # --------------------------------------------------
 # 1️⃣ Load dataset ONCE
 # --------------------------------------------------
