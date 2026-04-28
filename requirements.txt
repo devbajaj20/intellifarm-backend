@@ -6,3 +6,6 @@ pandas
 scikit-learn
 python-dotenv
 openai
+google-generativeai
+rapidfuzz
+requests

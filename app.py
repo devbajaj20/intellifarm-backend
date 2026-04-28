@@ -4,17 +4,14 @@ import pickle
 import numpy as np
 import pandas as pd
 import os
-from dotenv import load_dotenv
 from utils.mapper import map_user_inputs
-from openai import OpenAI
+from chatbot.routes import chatbot_bp
+from services.llm_service import ask_llm
+from dotenv import load_dotenv
 
-load_dotenv()
-client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY")
-)
 app = Flask(__name__)
 CORS(app)
-
+app.register_blueprint(chatbot_bp)
 # --------------------------------------------------
 # 1️⃣ Load dataset ONCE
 # --------------------------------------------------
@@ -107,8 +104,7 @@ def soil_status(user_soil, crop):
 
 def call_llm(prompt: str) -> str:
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
+        return ask_llm(
             messages=[
                 {
                     "role": "system",
@@ -119,11 +115,9 @@ def call_llm(prompt: str) -> str:
                     "content": prompt
                 }
             ],
-            temperature=0.6,
-            max_tokens=120
+            temp=0.6,
+            tokens=120
         )
-
-        return response.choices[0].message.content.strip()
 
     except Exception as e:
         print("LLM Error:", e)
@@ -164,15 +158,15 @@ Keep response short.
 """
 
     try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role":"user","content":prompt}],
-            max_tokens=120
+        return ask_llm(
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            tokens=120
         )
 
-        return response.choices[0].message.content
-
-    except:
+    except Exception as e:
+        print("Fertilizer LLM Error:", e)
         return "Recommended fertilizer based on soil nutrient balance."
 # --------------------------------------------------
 # 4️⃣ Health check
