@@ -9,3 +9,4 @@ openai
 google-generativeai
 rapidfuzz
 requests
+openpyxl
